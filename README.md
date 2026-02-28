@@ -65,4 +65,4 @@ src/
 
 ## 🌐 Live Demo
 
-[View Live](https://aryan-basic-todo-app.vercel.app)
+[View Live](https://itask-todo.vercel.app)

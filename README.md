@@ -2,6 +2,8 @@
 
 A clean, minimal, and fully responsive Todo application built with React and Tailwind CSS. Designed with a dark aesthetic and smooth interactions to keep you focused on what matters.
 
+🌐 **[View Live Demo](https://itask-todo.vercel.app)**
+
 ---
 
 ## ✨ Features
@@ -17,6 +19,13 @@ A clean, minimal, and fully responsive Todo application built with React and Tai
 
 ---
 
+## 📸 Screenshots
+
+![iTask Home](./screenshots/pending.png)
+![iTask Completed](./screenshots/completed.png)
+
+---
+
 ## 🛠️ Tech Stack
 
 - **React** — UI and state management
@@ -24,12 +33,6 @@ A clean, minimal, and fully responsive Todo application built with React and Tai
 - **Vite** — development and build tool
 - **Local Storage** — data persistence
 
----
-
-## 📸 Screenshots
-
-![iTask Home](./screenshots/pending.png)
-![iTask Completed](./screenshots/completed.png)
 ---
 
 ## 🚀 Getting Started
@@ -60,9 +63,3 @@ src/
 ├── main.jsx
 └── index.css
 ```
-
----
-
-## 🌐 Live Demo
-
-[View Live](https://itask-todo.vercel.app)

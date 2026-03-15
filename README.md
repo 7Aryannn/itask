@@ -2,7 +2,7 @@
 
 A clean, minimal, and fully responsive Todo application built with React and Tailwind CSS. Designed with a dark aesthetic and smooth interactions to keep you focused on what matters.
 
-🌐**[View Live Demo](https://itask-todo.vercel.app)**
+🌐 **[View Live Demo](https://itask-todo.vercel.app)**
 
 ---
 

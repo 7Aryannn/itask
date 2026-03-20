@@ -8,14 +8,14 @@ A clean, minimal, and fully responsive Todo application built with React and Tai
 
 ## ✨ Features
 
-- Add, edit, and delete tasks
-- Mark tasks as complete with a checkbox or double-click
-- Toggle between pending and completed tasks
-- Tasks persist across page refreshes using Local Storage
-- Auto-capitalizes first letter of every task
-- Press Enter to quickly add a task
-- Remaining and completed task counters
-- Fully responsive — works on mobile, tablet, and desktop
+- Add, edit, and delete tasks.
+- Mark tasks as complete with a checkbox or double-click.
+- Toggle between pending and completed tasks.
+- Tasks persist across page refreshes using Local Storage.
+- Auto-capitalizes first letter of every task.
+- Press Enter to quickly add a task.
+- Remaining and completed task counters.
+- Fully responsive — works on mobile, tablet, and desktop.
 
 ---
 

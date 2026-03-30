@@ -6,7 +6,7 @@ A clean, minimal, and fully responsive Todo application built with React and Tai
 
 ---
 
-## ✨ Features
+## ✨ Features:
 
 - Add, edit, and delete tasks.
 - Mark tasks as complete with a checkbox or double-click.
